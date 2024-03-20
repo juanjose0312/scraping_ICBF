@@ -114,6 +114,8 @@ for i in range(0,20):
 
     #presionar agregar
 
+    
+
     #lista contributivo (si no esta afiliado aparece un aviso)
     
     #lista eps
